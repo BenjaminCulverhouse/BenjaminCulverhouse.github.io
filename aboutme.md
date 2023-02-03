@@ -11,3 +11,5 @@ I have a general interest in technology and how it relates to the world that we 
 I hope to have the ability to create new and robust systems that can address issues that 
 people have as well as enable new ways to increase the effectiveness and productivity of
 people using web-based applications. 
+
+<img style = "float: middle;" src="Roanoke.jpg">
