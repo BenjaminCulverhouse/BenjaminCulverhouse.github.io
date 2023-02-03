@@ -12,4 +12,4 @@ I hope to have the ability to create new and robust systems that can address iss
 people have as well as enable new ways to increase the effectiveness and productivity of
 people using web-based applications. 
 
-<img style = "float: middle;" src="Roanoke.jpg">
+<img style = "float: middle;" src="/assets/img/Roanoke.jpg>
