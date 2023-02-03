@@ -9,8 +9,8 @@
 # --- Required options --- #
 ############################
 
-url: "BenjaminCulverhouse.github.io/"
-baseurl: 
+url: 
+baseurl: "BenjaminCulverhouse.github.io/"
 
 # Name of website
 title: My Personal Website
