@@ -9,7 +9,7 @@
 # --- Required options --- #
 ############################
 
-url: "BenjaminCulverhouse.github.io"
+url:
 baseurl: "BenjaminCulverhouse.github.io"
 
 # Name of website
